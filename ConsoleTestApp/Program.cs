@@ -8,6 +8,8 @@ namespace ConsoleTestApp
         {
             Console.WriteLine("Hello World!");
             // test comment
+            //This is a test comment
+            // This is another test
         }
     }
 }
