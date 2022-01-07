@@ -1,0 +1,14 @@
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp3.1\ConsoleTestApp.exe
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp3.1\ConsoleTestApp.deps.json
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp3.1\ConsoleTestApp.runtimeconfig.json
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp3.1\ConsoleTestApp.runtimeconfig.dev.json
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp3.1\ConsoleTestApp.dll
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp3.1\ConsoleTestApp.pdb
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp3.1\ConsoleTestApp.csproj.AssemblyReference.cache
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp3.1\ConsoleTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp3.1\ConsoleTestApp.AssemblyInfoInputs.cache
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp3.1\ConsoleTestApp.AssemblyInfo.cs
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp3.1\ConsoleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp3.1\ConsoleTestApp.dll
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp3.1\ConsoleTestApp.pdb
+C:\Users\klm\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp3.1\ConsoleTestApp.genruntimeconfig.cache
